@@ -22,4 +22,4 @@
     <a href="https://github.com/fission/keda-connectors" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="https://github.com/fission/keda-connectors/blob/master/README.md" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
 
-  tags: [DocuSign, DocuSign Prefill]
+  tags: [Connector, fission, Keda]
