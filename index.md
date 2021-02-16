@@ -25,6 +25,7 @@ Cloud: AWS, Azure, Google cloud, heroku and openshift.
 Mobile OS: Android  
 Others: Typescript, mongoose.js, mocha, webpack.js, grunt.js, gulp.js, Parse SDK for android and javascript, Google Analytics etc  
 <br>
+I do some social activites, that's where we have created a Youtube channel <a href="https://www.youtube.com/geniusvillager">Genius Villager </a>
 <br>
 <br>
 <br>
