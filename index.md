@@ -3,16 +3,27 @@ layout: page
 full_logo: true
 title: 
 subtitle: 
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: I am a Software developer, work start to end of the application i.e. design, development and deployment. i worked mostly on Golang, Kubernetes, Typescript, Javascript, C#, React, Angular, AWS, Azure.
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">A minimal yet feature-rich Jekyll theme made for personal websites and blogs.</p>
+<p id="describe-text">I am a Software developer, work start to end of the application i.e. design, development and deployment. i worked mostly on Golang, Kubernetes, Typescript, Javascript, C#, React, Angular, AWS, Azure.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+Open source contributor, contributed to many open source projects, also participated in
+hacktoberfest. I have overall experience of 12+ years, working/worked end to end of the application, using Golang,
+Nodejs, Javascript, Typescript, C#.net, Docker, Kubernetes, Helm, EKS, EFK, Grafana,
+Prometheus, my email id [talekar.g@gmail.com](#) or a link to your [resume](#).
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+Technologies used so far
 
+Languages: golang, Javascript,Typescript, c#.net, vb.net, dart, HTML, XAML(WPF, Silverlight)  
+Frameworks/Web/Mobile technologies: Node.js, express.js, graphql, react.js, react-native, Flutter, backbone.js, knockout.js, durandal.js, angular.js, JQuery, HTML5, CSS, asp.net(MVC), WCF, silverlight  
+Databases: MongoDB, MySQL, PostgreSQL, SQL, firebase  
+Platforms: Linux (ubuntu) and Windows  
+Version Control System: git, vsts, tfs  
+Cloud: AWS, Azure, Google cloud, heroku and openshift.  
+Mobile OS: Android  
+Others: Typescript, mongoose.js, mocha, webpack.js, grunt.js, gulp.js, Parse SDK for android and javascript, Google Analytics etc  
 <br>
 <br>
 <br>
