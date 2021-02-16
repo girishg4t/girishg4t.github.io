@@ -1,15 +1,15 @@
-title: Pudhina Fresh
-short_logo: P.
+title: Girish Talekar
+short_logo: G.
 description: |
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  This is my personal websites and blogs.
 baseurl: ''
 url: ''
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh
+  name: Girish Talekar
+  github: girishg4t/girishg4t.github.io
   linkedin: ritijjain
-  email: example@example.com
-  homepage: 'https://ritijjain.com'
+  email: talekar.g@gmail.com
+  homepage: 'https://girishg4t.github.io'
 disqus_name: null
 g_track_id: null
 markdown: kramdown
