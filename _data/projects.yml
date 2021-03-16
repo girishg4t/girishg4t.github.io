@@ -1,5 +1,18 @@
-- name: DocuSign Connect
+- name: BhavCopy Downloader
   id: p1
+  img_src: 
+  description_less: >
+    <p>Get free NSE and BSE data(bhavcopy), based on customizable index and date.</p>
+  description_more: >
+    <p>BhavCopy downloader is a FREE NSE and BSE end of the day stocks data downloader. Since it connect to NSE and BSE server for getting the data it is considered as authentic. it can download daily as well as historical EOD data for the currently configured indexes. It is made simple, customizable, public and free, so any one can download the data as per there need. You can check the existing data in "./nse" and "./bse" folder which got downloaded so far.</p>
+    
+    <a href="https://github.com/girishg4t/bhavCopy-downloader" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://girishg4t.medium.com/get-free-nse-bse-data-bhavcopy-based-on-customizable-index-and-date-baa00e70027f" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+
+  tags: [free nse and bse data, bhavcopy downloader, nse data, bse data]
+
+- name: DocuSign Connect
+  id: p2
   img_src: 
   description_less: >
     <p>Docusign Pre-Fill Extension enables documents to be pre-fill document tabs.</p>
@@ -12,7 +25,7 @@
   tags: [DocuSign, DocuSign Prefill]
 
 - name: Keda Connectors
-  id: p2
+  id: p3
   img_src: 
   description_less: >
     <p>Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.</p>
