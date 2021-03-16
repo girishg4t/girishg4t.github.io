@@ -7,9 +7,6 @@ pin: true
 tags: [free nse and bse data, get bhavcopy , nse data, bse data, free stocks data]
 ---
 
-
-# Get free NSE & BSE data based on customizable index and date
-
 ### Why there is need for this:
 
 For Technical analysis of stocks, for generating graphs and for many more such usecases most of the people requires `End of Day` stocks data called as Bhavcopy. I didn't find a place where i can get both Indian stock exchanges bhavcopy freely, hence the idea of creating a simple, customizable and public app, so that any one can download the NSE and BSE bhavcopy free.
@@ -18,7 +15,8 @@ For Technical analysis of stocks, for generating graphs and for many more such u
 
 I have created a public [website](https://girishg4t.github.io/bhavCopy-downloader/), below is the working of the same. BhavCopy-Downloader export data in csv format that is easily imported in leading technical analysis software. It connects to NSE and BSE servers to download this data, so it can be considered 100% authentic. I have made this highly customizable so that any one can update the index's as per there need and download the bhavcopy. Please check the contribution section for the same.
 
-![Alt working](../assets/img/bhavcopy-downloader.gif)
+
+![Alt working]({{ site.url }}/assets/img/bhavcopy-downloader.gif)
 
 ### Public Github repository of the project
 
@@ -27,7 +25,7 @@ I have create a public github repo called as  [BhavCopy-Downloader](https://gith
 ### Architecture of the project:
 
 Created a flow diagram to get batter understand of the project 
-![Alt Flow diagram](../assets/img/flow-diagram.png)
+![Alt Flow diagram]({{ site.url }}/assets/img/flow-diagram.png)
 
 ### Details on how to use the application:
 
