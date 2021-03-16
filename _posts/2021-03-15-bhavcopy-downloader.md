@@ -1,3 +1,13 @@
+---
+layout: post
+title:  Get free NSE and BSE data(bhavcopy), based on customizable index and date.
+date:   2021-03-15
+updated: 2021-03-15
+pin: true
+tags: [free nse and bse data, get bhavcopy , nse data, bse data, free stocks data]
+---
+
+
 # Get free NSE & BSE data based on customizable index and date
 
 ### Why there is need for this:
